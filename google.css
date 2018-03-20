@@ -16,6 +16,7 @@ html {
 
 .top li {
   display: inline-block;
+  padding: .5em;
 }
 
 .top img {
@@ -59,13 +60,14 @@ html {
 
 .language li {
   display: inline-block;
+  padding: .5em;
 
 }
 
 
 .bottom{
   background-color: light-grey;
-  margin-top: 350px;
+  margin-top: 330px;
 }
 
 
